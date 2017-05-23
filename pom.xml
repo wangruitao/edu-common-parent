@@ -15,6 +15,9 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<edu-demo.version>1.0-SNAPSHOT</edu-demo.version>
+		<edu-facade-user.version>1.0-SNAPSHOT</edu-facade-user.version>
+		<edu-service-user.version>1.0-SNAPSHOT</edu-service-user.version>
+		<edu-web-boss.version>1.0-SNAPSHOT</edu-web-boss.version>
 
 		<!-- frameworks -->
 		<org.springframework.version>3.2.9.RELEASE</org.springframework.version>
@@ -349,7 +352,7 @@
 			<dependency>
 				<groupId>mysql</groupId>
 				<artifactId>mysql-connector-java</artifactId>
-				<version>5.1.32</version>
+				<version>5.1.38</version>
 			</dependency>
 			<!-- Mysql Driver End -->
 
@@ -440,7 +443,7 @@
 			<dependency>
 				<groupId>org.jsoup</groupId>
 				<artifactId>jsoup</artifactId>
-				<version>1.7.3</version>
+				<version>1.8.3</version>
 			</dependency>
 
 
